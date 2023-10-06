@@ -17,7 +17,7 @@ This repository serves as my personal space to document and organize my journey 
 If you're new to Selenium, you can start by exploring the basics and setting up your development environment. Here are some essential resources:
 
 - [Selenium Official Website](https://www.selenium.dev/): Get an overview of Selenium and access official documentation.
-- [Installation Guide](https://www.selenium.dev/documentation/en/getting_started/installing_browser_drivers/): Learn how to set up Selenium and browser drivers for your preferred programming language.
+- [Download Guide](https://www.selenium.dev/download): Learn how to download Selenium for your preferred programming language.
 
 ## Tutorials
 
